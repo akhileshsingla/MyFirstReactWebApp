@@ -7,7 +7,7 @@ import About from './components/pages/About'
 import uuid from 'react-uuid';
 import './App.css';
 
-class App extends Component {
+class App extends Component { 
 
   state = {
     todos: [
